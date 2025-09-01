@@ -8,15 +8,15 @@
 
 ### 🌷 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YiFan1920&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&icon_color=ffb6c1&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YiFan1920&theme=tokyonight&hide_border=true&border_radius=20&ring=ffb6c1&fire=ff69b4&currStreakLabel=ffb6c1&background=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EldonLim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&icon_color=ffb6c1&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=EldonLim&theme=tokyonight&hide_border=true&border_radius=20&ring=ffb6c1&fire=ff69b4&currStreakLabel=ffb6c1&background=0d1117" height="160"/>
 </p>
 
 ---
 
 ### 🍡 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiFan1920&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldonLim&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="160"/>
 </p>
 
 ---
