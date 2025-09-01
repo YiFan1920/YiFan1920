@@ -47,4 +47,4 @@
 
 ---
 
-<p align="center">🌸 ✨ Find me on [LinkedIn!](https://www.linkedin.com/in/leanyifan/) ✨ 🌸</p>
+<p align="center">🌸 ✨ Find me at https://www.linkedin.com/in/leanyifan/ ✨ 🌸</p>
