@@ -3,9 +3,6 @@
 <p align="center">
   <em>Frontend enthusiast | UI/UX lover | NTU CS</em>
 </p>
-<p align="center">
-  <img src="https://media.tenor.com/mK0sMZtF1D4AAAAC/capybara-capy.gif" alt="Capybara gif" width="250"/>
-</p>
 
 ---
 
