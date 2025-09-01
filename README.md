@@ -8,15 +8,15 @@
 
 ### 🌷 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YiFan1920&show_icons=true&hide_border=true&border_radius=20&icon_color=FB938F&title_color=C36885&text_color=333333&bg_color=FB938F,F2CAC8,FDBB75" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YiFan1920&hide_border=true&border_radius=20&ring=FB938F&fire=FDBB75&currStreakLabel=C36885&background=FB938F,F2CAC8,FDBB75" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YiFan1920&show_icons=true&hide_border=true&border_radius=20&icon_color=FB938F&title_color=C36885&text_color=333333&bg_color=F2CAC8" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YiFan1920&hide_border=true&border_radius=20&ring=FB938F&fire=FDBB75&currStreakLabel=C36885&background=F2CAC8" height="160"/>
 </p>
 
 ---
 
 ### 🍡 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiFan1920&layout=compact&hide_border=true&border_radius=20&title_color=C36885&text_color=333333&bg_color=FB938F,F2CAC8,FDBB75" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiFan1920&layout=compact&hide_border=true&border_radius=20&title_color=C36885&text_color=333333&bg_color=F2CAC8" height="160"/>
 </p>
 
 ---
