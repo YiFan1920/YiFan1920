@@ -33,7 +33,7 @@
 
 ### 🌸 Fun Badges
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YiFan1920&style=for-the-badge&color=ffb6c1"/>
+  <img src="https://komarev.com/ghpvc/?username=EldonLim114&style=for-the-badge&color=ffb6c1"/>
   <img src="https://img.shields.io/badge/Frontend-%F0%9F%8C%B8-pink?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to%20Collab-%E2%9C%A8-ff69b4?style=for-the-badge"/>
 </p>
