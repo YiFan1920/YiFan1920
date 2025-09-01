@@ -6,17 +6,24 @@
 
 ---
 
+### 🌼 About Me
+- 🎓 Penultimate year Computer Science student @ NTU  
+- 💻 Frontend enthusiast passionate about designing visually appealing UI/UX
+- 🎨 Love building interactive & creative websites
+
+---
+
 ### 🌷 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YiFan1920&show_icons=true&hide_border=true&border_radius=20&icon_color=FB938F&title_color=C36885&text_color=333333&bg_color=F2CAC8" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YiFan1920&hide_border=true&border_radius=20&ring=FB938F&fire=FDBB75&currStreakLabel=C36885&background=F2CAC8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YiFan1920&show_icons=true&hide_border=true&border_radius=20&icon_color=FB938F&title_color=C36885&text_color=333333&bg_color=FFFFF7" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YiFan1920&hide_border=true&border_radius=20&ring=FB938F&fire=FDBB75&currStreakLabel=C36885&background=FFFFF7" height="160"/>
 </p>
 
 ---
 
 ### 🍡 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiFan1920&layout=compact&hide_border=true&border_radius=20&title_color=C36885&text_color=333333&bg_color=F2CAC8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiFan1920&layout=compact&hide_border=true&border_radius=20&title_color=C36885&text_color=333333&bg_color=FFFFF7" height="160"/>
 </p>
 
 ---
@@ -26,7 +33,7 @@
   <img src="https://img.shields.io/badge/React-%F0%9F%92%9C-FB938F?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%F0%9F%92%97-C36885?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%F0%9F%8C%B8-FDBB75?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-%F0%9F%90%8D-F2CAC8?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-%F0%9F%90%8D-FFFFF7?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
 ---
@@ -40,4 +47,4 @@
 
 ---
 
-<p align="center">🌸 ✨ Thanks for visiting! ✨ 🌸</p>
+<p align="center">🌸 ✨ Find me on [LinkedIn!](https://www.linkedin.com/in/leanyifan/) ✨ 🌸</p>
